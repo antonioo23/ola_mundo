@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&d');
+
+body{
+background-color: #305050;
+text-align: center;
+color: white;
+font-family: "Roboto", sans-serif;
+}
+
+.--meio {
+color: #FFA500;
+}
+.cabecalho{
+margin: 0px;
+padding: 0px;
+border-bottom: #818181 1px solid;
+}
+
+.negrito {
+font-weight: bold;
+}
+
+.italico {
+font-style: italic;
+}
+
+.rodape {
+border-top: #818181 1px solid;
+}
+
+.corpo {
+margin: 0px;
+padding: 0px;
+}
